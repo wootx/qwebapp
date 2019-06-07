@@ -1,0 +1,4 @@
+2019-06-07 11:00:08,206 ERROR com.account.qwebapp.account.AccountImpl [http-nio-8080-exec-1] Account does not exist for this userid 
+2019-06-07 11:00:08,209 ERROR com.account.qwebapp.account.exception.RestResponseEntityExceptionHandler [http-nio-8080-exec-1] Could not find account of the user- arnie12 
+2019-06-07 11:02:11,395 ERROR com.account.qwebapp.account.AccountImpl [http-nio-8080-exec-1] Account does not exist for this userid 
+2019-06-07 11:02:11,402 ERROR com.account.qwebapp.account.exception.RestResponseEntityExceptionHandler [http-nio-8080-exec-1] Could not find account of the user- arnie12 
